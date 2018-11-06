@@ -1,5 +1,3 @@
 test line 1 Sri
 Hello Sri
-Added text Christian Lab 3
-Added text Christian Lab 3 - rad branch
-This is fun.
+Resolved conflict by Sri
